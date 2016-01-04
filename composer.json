@@ -1,0 +1,19 @@
+{
+    "name": "beaver/dateval",
+    "description": "Library for reccuring events",
+    "license": "MIT",
+    "keywords": ["date","time","reccuring","calendar"],
+    "authors": [
+        {
+            "name": "Strahinja Djuric",
+            "email": "radju22@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Beaver\\Dateval\\": "lib/"
+        }
+    }
+
+}
