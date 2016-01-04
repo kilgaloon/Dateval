@@ -1,6 +1,8 @@
 Dateval library
 ================
 
+[![Build Status](https://travis-ci.org/Kilgaloon/Dateval.svg?branch=master)](https://travis-ci.org/Kilgaloon/Dateval)
+
 Create new events, and see when they will repeat by generating results
 
 First you need to create an event like this
