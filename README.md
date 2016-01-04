@@ -5,7 +5,7 @@ Create new events, and see when they will repeat by generating results
 
 First you need to create an event like this
  ``` 
- $event = new Event("01 March 2014");
+ $event = new Event("06 January 2014");
  
  ```
   
