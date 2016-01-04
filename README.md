@@ -1,4 +1,4 @@
-ReccuringLibrary
+Dateval library
 ================
 
 Create new events, and see when they will repeat by generating results
