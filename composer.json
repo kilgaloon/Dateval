@@ -12,10 +12,11 @@
 
     "autoload": {
         "psr-4": {
-            "Beaver\\Dateval\\": "lib/"
+            "Beaver\\Dateval\\": "src/"
         }
     },
     "require": {
-        "phpunit/phpunit": "^5.1"
+        "phpunit/phpunit": "^5.1",
+        "phpmailer/phpmailer": "^5.2"
     }
 }

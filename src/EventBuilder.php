@@ -9,8 +9,7 @@ abstract class EventBuilder {
             $until, // string of date until event will repeat
             $maxRepeats; // integer how much maximum repeats event will occured
     
-    public $dates = [];
-    
+    public $dates = [];  
     
 // seconds in day needed to calculate number of days 
     // between two days ( starting date, ending date )

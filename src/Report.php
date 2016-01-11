@@ -83,7 +83,7 @@ class Report {
         return $this->results();
     }
     
-    public function __construct(Event $event) {
+    public function __construct(EventBuilder $event) {
         $this->eventObject = $event;
     }
     
