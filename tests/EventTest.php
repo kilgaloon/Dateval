@@ -1,8 +1,8 @@
 <?php
 
-require_once("lib/EventBuilder.php");
-require_once("lib/Event.php");
-require_once("lib/Report.php");
+require_once("src/EventBuilder.php");
+require_once("src/Event.php");
+require_once("src/Report.php");
 
 class EventTest extends PHPUnit_Framework_TestCase {
     
